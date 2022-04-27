@@ -1,0 +1,9 @@
+
+#ignore parcel cache
+.parcel-cache
+
+
+#ingore dist
+dist/
+
+
