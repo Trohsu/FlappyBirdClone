@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "redbird.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 102,
+				"h": 24
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "redbird-downflap.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 34,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 24
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 24
+					}
+				},
+				{
+					"filename": "redbird-midflap.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 34,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 24
+					},
+					"frame": {
+						"x": 34,
+						"y": 0,
+						"w": 34,
+						"h": 24
+					}
+				},
+				{
+					"filename": "redbird-upflap.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 34,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 24
+					},
+					"frame": {
+						"x": 68,
+						"y": 0,
+						"w": 34,
+						"h": 24
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9a8bbf3b3ad46c31767aec536d70b8cc:2d5b40a1877eb183c20768f6cf254bac:766362788fc17da25fc946e7a715a3b1$"
+	}
+}
